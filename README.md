@@ -9,6 +9,7 @@ non-secure jQuery Slack Notification
 
 [TOCM]
 
+[TOC]
 
 ## Slack App builder
 You'we got to create you [own Slack App](https://api.slack.com/apps?new_app=1) first.
