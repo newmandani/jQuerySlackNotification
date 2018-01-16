@@ -5,7 +5,7 @@ non-secure jQuery Slack Notification
 > For particular this one is notification undescribed dictionarie values and 
 > fastest way to get remote console.log bugs back
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/newmandani/editor.md.svg) ![](https://img.shields.io/github/tag/newmandani/editor.md.svg) ![](https://img.shields.io/github/release/newmandani/editor.md.svg) ![](https://img.shields.io/github/issues/newmandani/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+![](https://img.shields.io/github/stars/newmandani/editor.md.svg) ![](https://img.shields.io/github/forks/newmandani/editor.md.svg) ![](https://img.shields.io/github/tag/newmandani/editor.md.svg) ![](https://img.shields.io/github/release/newmandani/editor.md.svg) ![](https://img.shields.io/github/issues/newmandani/editor.md.svg)
 
 [TOCM]
 
