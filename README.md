@@ -72,5 +72,5 @@ It's limited and test implemention only for fun or yours special needs only.
 * **[Daniel Newman](https://github.com/newmandani/)** - *Initial repo*
 
 ## Special Thanks
-- [@joemccann](https://twitter.com/joemccann) for the [DILINGER](https://dillinger.io/) markup editor.
-- Kirill
+- [@joemccann](https://twitter.com/joemccann) for the [DILINGER](https://dillinger.io/) markup editor
+- [Kirill Khudyakov](https://github.com/adevelopers/) for the "kick ass" to start github activity
