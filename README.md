@@ -22,8 +22,8 @@ It's very easy and fast. All you need to create first App is to define
 The [main.js](https://raw.githubusercontent.com/newmandani/jQuerySlackNotification/master/main.js) contains `slackNotify` function definition and `slackNotify({text: 'test'})` implemenation to get first message to the App defined chanel.
 
 ## Dependency
-* ![jQuery 1.*](https://raw.githubusercontent.com/newmandani/jQuerySlackNotification/master/misc/jquery_ico.gif) [jQuery](https://cdnjs.com/libraries/jquery/1.12.4) Needed
-* ![Slack](https://raw.githubusercontent.com/newmandani/jQuerySlackNotification/master/misc/slack_ico.png) [Slack](https://slack.com) Needed
+* ![jQuery 1.*](https://raw.githubusercontent.com/newmandani/jQuerySlackNotification/master/misc/jquery_ico.gif | width=50) [jQuery](https://cdnjs.com/libraries/jquery/1.12.4) Needed
+* ![Slack](https://raw.githubusercontent.com/newmandani/jQuerySlackNotification/master/misc/slack_ico.png | width=50) [Slack](https://slack.com) Needed
 
 ## Warning
 jQuery is client side library. All code you will write will be exposed to your users.
