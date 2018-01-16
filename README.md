@@ -7,9 +7,7 @@ non-secure jQuery Slack Notification
 
 ![](https://img.shields.io/github/stars/newmandani/editor.md.svg) ![](https://img.shields.io/github/forks/newmandani/editor.md.svg) ![](https://img.shields.io/github/tag/newmandani/editor.md.svg) ![](https://img.shields.io/github/release/newmandani/editor.md.svg) ![](https://img.shields.io/github/issues/newmandani/editor.md.svg)
 
-[TOCM]
-
-### Slack App builder
+## Slack App builder
 You'we got to create you [own Slack App](https://api.slack.com/apps?new_app=1) first.
 It's very easy and fast. All you need to create first App is to define
 - App Name - any non-used on Slack App name for the current Slack Workspace (your scope) 
@@ -22,7 +20,7 @@ It's very easy and fast. All you need to create first App is to define
 > There is some additional setting on App you can check and set by you own
 > but this is minimal required setting to get your Webhook URL and start testing.
 
-### Code View
+## Code View
 ```javascript
 /*
  * notificationObj argument is a so called cotainer Object
@@ -55,22 +53,22 @@ function slackNotify(notificationObj){
 ```
 
 
-### Test it
+## Test it
 The [main.js](https://raw.githubusercontent.com/newmandani/jQuerySlackNotification/master/main.js) contains `slackNotify` function definition and `slackNotify({text: 'test'})` implemenation to get first message to the App defined chanel.
 ```javascript
 slackNotify({text: 'test'});
 ```
 
-### Dependency
-— <a href="https://cdnjs.com/libraries/jquery/1.12.4" target="_blank"><img src="https://raw.githubusercontent.com/newmandani/jQuerySlackNotification/master/misc/jquery_ico.gif" width="80px" valign="middle" style="vertical-align: middle;"></a>
-— <a href="https://slack.com" target="_blank"><img src="https://raw.githubusercontent.com/newmandani/jQuerySlackNotification/master/misc/slack_ico.png" width="100px" valign="middle" style="vertical-align: middle;"></a>
+## Dependency
+<a href="https://cdnjs.com/libraries/jquery/1.12.4" target="_blank"><img src="https://raw.githubusercontent.com/newmandani/jQuerySlackNotification/master/misc/jquery_ico.gif" width="80px" valign="middle" style="vertical-align: middle;"></a> 
+<a href="https://slack.com" target="_blank"><img src="https://raw.githubusercontent.com/newmandani/jQuerySlackNotification/master/misc/slack_ico.png" width="100px" valign="middle" style="vertical-align: middle;"></a>
 
-### Warnings
+## Warnings
 jQuery is client side library. All code you will write will be exposed to your users.
 Slack App Webhook ULR and can be spamed by users who will find it fun.
 It's limited and test implemention only for fun or yours special needs only.
 
-## Authors
+## Author
 * **[Daniel Newman](https://github.com/newmandani/)** - *Initial repo*
 
 ## Special Thanks
