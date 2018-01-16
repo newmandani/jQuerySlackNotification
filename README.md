@@ -5,7 +5,7 @@ non-secure jQuery Slack Notification
 > For particular this one is notification undescribed dictionarie values and 
 > fastest way to get remote console.log bugs back
 
-![](http://http://githubbadges.com/star.svg?user=newmandani&repo=jQuerySlackNotification&background=f1e05a&color=fff&style=flat) ![](https://img.shields.io/github/forks/newmandani/editor.md.svg) ![](https://img.shields.io/github/tag/newmandani/editor.md.svg) ![](https://img.shields.io/github/release/newmandani/editor.md.svg) ![](https://img.shields.io/github/issues/newmandani/editor.md.svg)
+[![star this repo](http://githubbadges.com/star.svg?user=newmandani&repo=jQuerySlackNotification&style=flat)](https://github.com/newmandani/jQuerySlackNotification) [![fork this repo](http://githubbadges.com/fork.svg?user=newmandani&repo=jQuerySlackNotification&style=flat)](https://github.com/newmandani/jQuerySlackNotification/fork)
 
 ## Slack App builder
 You'we got to create you [own Slack App](https://api.slack.com/apps?new_app=1) first.
